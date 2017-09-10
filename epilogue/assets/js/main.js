@@ -46,7 +46,7 @@
 				var $this = $(this),
 					$header = $this.find('header'),
 					$a = $header.find('a'),
-					$img = $header.find('img');
+					$img = $a.find('img');
 
 				// Set background.
 					$a.css('background-image', 'url(' + $img.attr('src') + ')');
