@@ -1488,7 +1488,7 @@
 /* Intro */
 
 	#intro {
-		padding: 4em 4em 2em 4em;
+	/*	padding: 4em 4em 2em 4em; */
 		background-color: #ffffff;
 		border-radius: 4px;
 		text-align: center;
@@ -1497,7 +1497,7 @@
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 2em 2em 0.1em 2em;
+				/* padding: 2em 2em 0.1em 2em; */
 			}
 
 		}
@@ -1505,7 +1505,7 @@
 		@media screen and (max-width: 480px) {
 
 			#intro {
-				padding: 2em 1em 0.1em 1em;
+				/* padding: 2em 1em 0.1em 1em; */
 			}
 
 				#intro p br {
